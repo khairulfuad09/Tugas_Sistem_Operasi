@@ -294,3 +294,5 @@ Ciri-ciri komputer generasi kelima:
 - Memiliki fitur yang terus berkembang setiap tahunnya.
 - Semakin cepat dalam pemrosesan informasi.
 - Komputer memiliki kemampuan untuk mendengar, berbicara, melihat, berbicara, dan bisa lebih canggih lagi. Bahkan dapat memberikan kesimpulan layaknya manusia.
+
+mencoba menambah
