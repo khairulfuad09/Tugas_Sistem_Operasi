@@ -13,6 +13,8 @@
 
 ### Laptop
 
+![Gambar Laptop](https://purepng.com/public/uploads/large/purepng.com-laptop-notebooklaptopsnotebooknotebook-computerclamshell-1701528354844ktgom.png)
+
 Laptop sering disebut sebagai komputer jinjing. Ini tidak lepas dari fisiknya yang dapat dibawa ke mana-mana. Bentuknya yang  kecil lebih lebih flexible dan efektif digunakan dibandingkan dengan komputer dekstop yang memakan ruang dan daya listrik.
 
 Bentuk laptop kecil, ringan, flexible dan dapat dibawa kemana-mana. Ia terdiri dari beberapa komponen yang mencakup casing, perangkat input output (keyboard, monitor, touchpad dll), motherboard, baterai dan juga perangkat lunak berupa sistem operasi dan aplikasi-aplikasi.
@@ -39,6 +41,8 @@ manfaat laptop :
 
 ### Sistem Operasi
 **linux**
+
+![linux](https://wi.wallpapertip.com/wsimgs/95-955091_kali-linux-wallpaper-4k.jpg)
 
 Pengertian Linux adalah sistem operasi yang menggunakan kernel linux. Kernel sendiri adalah bagian terkecil dari sistem operasi yang bertugas untuk melakukan manajemen cpu, memori dan perangkat -perangkat tambahan lain.
 
@@ -97,6 +101,8 @@ Distro Linux Mint dibuat dengan berbasiskan pada Debian dan Ubuntu. Keunggulan d
 ### Procesor
 
 Prosesor AMD Ryzen 3 3250U
+
+![AMD Ryzen 3 3250U](https://i1.wp.com/res.cloudinary.com/db7dfhvjr/image/upload/v1565055480/AMD/Ryzen%203%203200G/Ryzen_3_3200G_1.jpg?ssl=1)
 
 Prosesor AMD Ryzen 3 3250U dikembangkan pada simpul teknologi dan arsitektur 14 nm Dali (Zen+) . Kecepatan clock dasarnya adalah 2.60 GHz , dan kecepatan clock maksimum dalam turbo boost - 2.60 GHz .
 
@@ -294,5 +300,3 @@ Ciri-ciri komputer generasi kelima:
 - Memiliki fitur yang terus berkembang setiap tahunnya.
 - Semakin cepat dalam pemrosesan informasi.
 - Komputer memiliki kemampuan untuk mendengar, berbicara, melihat, berbicara, dan bisa lebih canggih lagi. Bahkan dapat memberikan kesimpulan layaknya manusia.
-
-mencoba menambah
