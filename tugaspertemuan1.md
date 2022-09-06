@@ -1,3 +1,6 @@
+# nama : Khairul Fuad
+# nim : 2110131310002
+
 # Tugas Pertemuan 1
 
 ### Mengidentifikasikan terkait benda benda berikut yang ada pada PC/Laptop, baik secara umum, spesifikasi, manfaat atau kegunaan.
