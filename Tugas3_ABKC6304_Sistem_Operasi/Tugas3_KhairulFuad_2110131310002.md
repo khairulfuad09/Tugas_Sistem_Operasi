@@ -117,6 +117,6 @@ dinano kita bisa memodifikasi suatu berkas jika ingin keluar bisa tekan `ctrl + 
 
 ### **Loading dan eksekusi program**
 
-![](image/Loading%20dan%20eksekusi%20program.png)
+![](image/Loadingdaneksekusiprogram.png)
 
 kita bisa mengeksekusi suatu program misalnya program java kita bisa mengkompiler dan menjalankan programnya, tapi sebelum bisa melakukan itu kita harus memasang packages javanya terlebih dahulu.
